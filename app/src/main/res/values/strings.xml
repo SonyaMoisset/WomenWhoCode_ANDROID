@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WomenWhoCode</string>
+    <string name="wwc_logo">wwc-logo</string>
+    <string name="heading">What is Women Who Code?</string>
+    <string name="intro_1">WWC is a global non-profit organization dedicated to inspiring women to excel in technology careers</string>
+    <string name="intro_2">WWC aims to provide an avenue into tech, and environments where networking and mentorship are valued.</string>
+    <string name="intro_3">As of 2017, WWC has executed more than 5,000 free events worldwide, garnered 100,000 members, and has a presence in over 20 countries.</string>
+    <string name="sub_heading">More information:</string>
+    <string name="website">Website: www.womenwhocode.com</string>
+    <string name="meetup">Meetup: www.meetup.com/topics/wwc</string>
+    <string name="twitter">Twitter: @womenwhocode</string>
+</resources>
